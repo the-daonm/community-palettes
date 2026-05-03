@@ -1,4 +1,4 @@
-# Noctalia colorschemes
+# Community palettes
 
 **_quiet by design_**
 
@@ -8,5 +8,5 @@
 
 ---
 
-This is where we fetch all the additional color schemes for noctalia-shell from.
-If you want your color scheme to be added to noctalia-shell, you will have to create a PR over here.
+This is where we fetch all the additional palettes for noctalial from.
+If you want your palette to be added to noctalia, you will have to create a PR over here.
