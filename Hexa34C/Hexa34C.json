@@ -14,6 +14,8 @@
     "mOnSurfaceVariant": "#c1c9be",
     "mOutline": "#8b9389",
     "mShadow": "#000000",
+    "mHover": "#a1ced8",
+    "mOnHover": "#00363e",
     "terminal": {
       "background": "#101510",
       "foreground": "#dfe4dc",
@@ -58,6 +60,8 @@
     "mOnSurfaceVariant": "#414941",
     "mOutline": "#727970",
     "mShadow": "#000000",
+    "mHover": "#39656d",
+    "mOnHover": "#ffffff",
     "terminal": {
       "background": "#f6fbf2",
       "foreground": "#181d18",
