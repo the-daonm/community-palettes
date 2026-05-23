@@ -15,7 +15,7 @@
     "mOutline": "#665c58",
     "mShadow": "#000000",
     "mHover": "#cb9168",
-    "mOnHover": "#e5dec9",
+    "mOnHover": "#242120",
     "terminal": {
       "normal": {
         "black": "#242120",
@@ -61,7 +61,7 @@
     "mOutline": "#8a7e74",
     "mShadow": "#242120",
     "mHover": "#864A2D",
-    "mOnHover": "#242120",
+    "mOnHover": "#DDD7CA",
     "terminal": {
       "normal": {
         "black": "#242120",
