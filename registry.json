@@ -1762,6 +1762,46 @@
       }
     },
     {
+      "name": "Sway Classic",
+      "path": "Sway Classic",
+      "dark": {
+        "mPrimary": "#4C7899",
+        "mOnPrimary": "#FFFFFF",
+        "mSecondary": "#2E9EF4",
+        "mOnSecondary": "#111111",
+        "mTertiary": "#5F676A",
+        "mOnTertiary": "#FFFFFF",
+        "mError": "#900000",
+        "mOnError": "#FFFFFF",
+        "mSurface": "#222222",
+        "mOnSurface": "#F0F0F0",
+        "mSurfaceVariant": "#333333",
+        "mOnSurfaceVariant": "#888888",
+        "mOutline": "#484E50",
+        "mShadow": "#111111",
+        "mHover": "#2D2D2D",
+        "mOnHover": "#F0F0F0"
+      },
+      "light": {
+        "mPrimary": "#285577",
+        "mOnPrimary": "#FFFFFF",
+        "mSecondary": "#1A6EA8",
+        "mOnSecondary": "#FFFFFF",
+        "mTertiary": "#5F676A",
+        "mOnTertiary": "#FFFFFF",
+        "mError": "#900000",
+        "mOnError": "#FFFFFF",
+        "mSurface": "#F5F5F5",
+        "mOnSurface": "#222222",
+        "mSurfaceVariant": "#DCDCDC",
+        "mOnSurfaceVariant": "#484E50",
+        "mOutline": "#9E9E9E",
+        "mShadow": "#BBBBBB",
+        "mHover": "#E8E8E8",
+        "mOnHover": "#222222"
+      }
+    },
+    {
       "name": "Tokyo Night Moon",
       "path": "Tokyo Night Moon",
       "dark": {
